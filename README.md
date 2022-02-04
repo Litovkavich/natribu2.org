@@ -1,4 +1,4 @@
-# Natribu.org-vernis
+# Natribu.org-2.0
 
 ---НАХУЙ 2.0---
 Что же это?
